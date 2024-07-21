@@ -48,7 +48,7 @@ header { width:800px; height:100%; position:fixed; top:0px; left:-460px; backgro
 /* contents 레이아웃 */
 #side { width:500px; height:100%; position:fixed; bottom:0px; right:-500px; background:#b4d4ff; opacity:0.5; transform:skewX(-45deg); transition:all 0.5s;}
 #side:hover { right:-200px; opacity:0.8;}
-#side .con { width:100px; height:100%; position:absolute; left:150px; bottom:0px; background:#b4d4ff 	box-sizing:border-box; padding:10px; transition:all  1s;}
+#side .con { width:100px; height:100%; position:absolute; left:150px; bottom:0px; background:#b4d4ff;	box-sizing:border-box; padding:10px; transition:all  1s;}
 #side:hover .con { left:50px;}
 
 /* contents내 썸네일 */
